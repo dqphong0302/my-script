@@ -1,1 +1,2 @@
-# my-script
+# windows + office
+https://github.com/massgravel/Microsoft-Activation-Scripts
